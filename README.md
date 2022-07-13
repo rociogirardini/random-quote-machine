@@ -48,6 +48,10 @@
 * JavaScript
 * React Js
 
+### Status
+
+Completed.
+
 <!-- CONTACT -->
 ## Contact
 
